@@ -16,7 +16,7 @@ My main interests are AI, modern web development, automation, and creating digit
 - Databases and scalable backend systems
 
 ## 🛠️ Languages and Tools
-<p align="left">  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="css3" width="40" height="40"/>
+<p align="left">  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,react,tailwind,python,postgres" alt="css3"/>
 
 ## 🌱 Currently focused on
 Continuously learning, building new ideas, and improving my skills as developer
